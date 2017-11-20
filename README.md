@@ -1,11 +1,11 @@
 
 ## Privacy Policy
 
-Thank you for choosing App Lock (hereinafter referred to “Product”). Please read through all rights and restrictions in this Agreement with care.
+Thank you for choosing Webgenie SWF Player (hereinafter referred to “Product”). Please read through all rights and restrictions in this Agreement with care.
 
 ##### 1) Product Features
 
-Our Product’s functions include application lock, and more. We will also continue to introduce new features according to your needs, to help you better protect and manage your mobile devices.
+Our Product’s functions include Playing SWF format files and browsing Internet, and more. We will also continue to introduce new features according to your needs, to help you better protect and manage your mobile devices.
 
 We look forward to receiving feedback on your experience with our product, as well as any suggestions you submit to our user feedback channel. Your advice will help us to provide you with a better service.
 
